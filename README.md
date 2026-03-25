@@ -54,7 +54,8 @@ while (isAwake) {
 <h3 align="center">TaskSplit</h3>
 <div align="center">  
 <a href="https://github.com/Un-chat-010/TaskSplit" target="_blank">
-<img src="" width="50%" alt="TaskSplit"/>
+<!-- <img src="" width="50%" alt="TaskSplit"/> -->
+<img width="50%" alt="TaskSplit" src="https://github.com/user-attachments/assets/ce4cd757-02a3-4317-b117-84a341cb728f" />
 </a>
 <br>
 <br>
