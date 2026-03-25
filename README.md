@@ -29,7 +29,8 @@ while (isAwake) {
 <h3 align="center">Diary Check Tool</h3>
 <div align="center">  
 <a href="https://github.com/Un-chat-010/Dairy-check-tool/tree/main" target="_blank">
-<img src="" width="50%" alt="Diary Check Tool"/>
+<!-- <img src="" width="50%" alt="Diary Check Tool"/> -->
+<img width="50%" alt="Diary Check Tool" src="https://github.com/user-attachments/assets/50cc0f82-3990-4be7-8da6-33de8d5734f0" />
 </a>
 <br>
 <br>
@@ -52,7 +53,7 @@ while (isAwake) {
 <td width="50%">
 <h3 align="center">TaskSplit</h3>
 <div align="center">  
-<a href="https://github.com/YOUR_USERNAME/TaskSplit" target="_blank">
+<a href="https://github.com/Un-chat-010/TaskSplit" target="_blank">
 <img src="" width="50%" alt="TaskSplit"/>
 </a>
 <br>
