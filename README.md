@@ -62,7 +62,7 @@ while (isAwake) {
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://tasksplit.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 <p align="left">
