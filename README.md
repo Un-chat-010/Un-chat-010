@@ -42,13 +42,36 @@ while (isAwake) {
 </a>
 </p>
 <p align="left">
-• Daily review<br>
-• yearly review<br>
-• 5 years check
+- Daily review<br>
+- Yearly review<br>
+- 5 years check
 </p>
 </div>
 </td>
 
+<td width="50%">
+<h3 align="center">TaskSplit</h3>
+<div align="center">  
+<a href="https://github.com/YOUR_USERNAME/TaskSplit" target="_blank">
+<img src="" width="50%" alt="TaskSplit"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Un-chat-010/tasksplit" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://tasksplit.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=netlify"/>
+</a>
+</p>
+<p align="left">
+- AI-powered task decomposition<br>
+- Focus mode & calendar view<br>
+- Built with React + DeepSeek API
+</p>
+</div>
+</td>
 </tr>
 </table>
 
